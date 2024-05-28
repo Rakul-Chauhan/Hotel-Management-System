@@ -9,6 +9,7 @@ This project is a Hotel Management System implemented in C using various Operati
 - [Requirements](#requirements)
 - [File Descriptions](#file-descriptions)
 - [How to Run](#how-to-run)
+- [Details](#Details)
 
 ## Problem Statement
 
@@ -67,3 +68,5 @@ The objective of this assignment is to use various OS concepts to create a hotel
 - The waiter process will calculate the total bill and communicate with the table process and hotel manager.
 - The hotel manager will keep track of earnings and handle termination upon receiving a signal from the admin process.    
 
+## Details
+For more details on the implementation, refer to the comments in the source code files.
