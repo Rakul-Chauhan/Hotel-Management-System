@@ -62,10 +62,10 @@ The objective of this assignment is to use various OS concepts to create a hotel
     ./waiter
 
 **Running Instructions:**
--- When running a table process, you will be prompted to enter a unique table number and the number of customers at the table.
--- Customer processes will prompt for food orders based on menu.txt.
--- The waiter process will calculate the total bill and communicate with the table process and hotel manager.
--- The hotel manager will keep track of earnings and handle termination upon receiving a signal from the admin process.    
+- When running a table process, you will be prompted to enter a unique table number and the number of customers at the table.
+- Customer processes will prompt for food orders based on menu.txt.
+- The waiter process will calculate the total bill and communicate with the table process and hotel manager.
+- The hotel manager will keep track of earnings and handle termination upon receiving a signal from the admin process.    
 
 
 This `README.md` file provides a detailed overview of the project, instructions on how to run the program, and essential information about the system. You can now create a GitHub repository and add this `README.md` file to it.
