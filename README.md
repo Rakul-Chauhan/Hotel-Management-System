@@ -1,6 +1,6 @@
 # Hotel Management System
 
-This project is a Hotel Management System implemented in C using various Operating System concepts such as process creation, inter-process communication (IPC), and shared memory. The system simulates a hotel environment where different entities like Admin, Hotel Manager, Tables, Customers, and Waiters are represented as processes.
+This project is a Hotel Management System implemented using POSIX-compliant C programs utilizing various Operating System concepts such as process creation, inter-process communication (IPC) using pipes and shared memory, and error handling. The system simulates a hotel environment where different entities like Admin, Hotel Manager, Tables, Customers, and Waiters are represented as processes.
 
 ## Table of Contents
 
@@ -18,6 +18,8 @@ The objective of this assignment is to use various OS concepts to create a hotel
 2. Waiter Processes
 3. Hotel Manager Process
 4. Admin Process
+
+![image](https://github.com/Rakul-Chauhan/Hotel-Management-System/assets/139129716/5a08055e-2b7f-4626-8adf-b1e6273c61df)
 
 ## System Overview
 
